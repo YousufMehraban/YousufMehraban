@@ -1,6 +1,6 @@
 - Yousuf Mehraban.
-- 👀 Software Engineering Learner.
-- 📫 Reach me on skype: yousuf.mehraban or email me: yousufmehraban@gmail.com
+- 👀 Software Engineer and Computer Science Enthusiast.
+- 📫 Reach me on skype: yousuf.mehraban or email me at: yousufmehraban@gmail.com
 
 <!---
 YousufMehraban/YousufMehraban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
